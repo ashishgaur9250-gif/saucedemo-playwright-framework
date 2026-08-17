@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SauceDemo Playwright TypeScript Enterprise Framework
 
 A production-style Playwright + TypeScript framework demonstrating:
@@ -156,3 +157,6 @@ config/stage.env
 ```
 
 For a real enterprise project, replace environment credentials with CI/CD secret variables and do not commit secrets to Git.
+=======
+# saucedemo-playwright-framework
+>>>>>>> 5d8dee61122eae8d33478a38215c424f0616af26
