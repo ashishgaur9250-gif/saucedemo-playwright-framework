@@ -16,8 +16,8 @@ const envConfig = {
   stage: {
     name: "stage",
     baseUrl: "https://www.saucedemo.com/",
-    username: "standard_user",
-    password: "secret_sauce"
+    username: "stage_user",
+    password: "stage_password"
   }
 };
 
